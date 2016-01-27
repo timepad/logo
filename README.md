@@ -17,12 +17,12 @@
 ###Прозрачный фон
 | Темно-серый   | Светло-синий  |
 | ------------- |-------------- |
-| <img src="https://github.com/timepad/public/master/png%20logo/mini-logo-timepad-without-background-1.png" alt="TimePad Logo"> | <img src="https://github.com/timepad/public/master/png%20logo/mini-logo-timepad-without-background-2.png" alt="TimePad Logo">|
+| <img src="https://raw.githubusercontent.com/timepad/public/master/png%20logo/mini-logo-timepad-without-background-1.png" alt="TimePad Logo"> | <img src="https://raw.githubusercontent.com/timepad/public/master/png%20logo/mini-logo-timepad-without-background-2.png" alt="TimePad Logo">|
 | [png](https://github.com/timepad/public/master/png%20logo/mini-logo-timepad-without-background-1.png), [svg](https://github.com/timepad/public/blob/master/svg%20logo/mini-logo-timepad-without-background-1.svg) | [png](https://github.com/timepad/public/master/png%20logo/mini-logo-timepad-without-background-2.png), [svg](https://github.com/timepad/public/blob/master/svg%20logo/mini-logo-timepad-without-background-2.svg) |
 ###Цветной фон
 | Темно-серый   | Светло-синий  |
 | ------------- |-------------- |
-| <img src="https://github.com/timepad/public/master/png%20logo/mini-logo-timepad-with-background-1.png" alt="TimePad Logo"> | <img src="https://github.com/timepad/public/master/png%20logo/mini-logo-timepad-with-background-2.png" alt="TimePad Logo"> |
+| <img src="https://raw.githubusercontent.com/timepad/public/master/png%20logo/mini-logo-timepad-with-background-1.png" alt="TimePad Logo"> | <img src="https://raw.githubusercontent.com/timepad/public/master/png%20logo/mini-logo-timepad-with-background-2.png" alt="TimePad Logo"> |
 | [png](https://github.com/timepad/public/master/png%20logo/mini-logo-timepad-with-background-1.png), [svg](https://github.com/timepad/public/blob/master/svg%20logo/mini-logo-timepad-with-background-1.svg) | [png](https://github.com/timepad/public/master/png%20logo/mini-logo-timepad-with-background-2.png), [svg](https://github.com/timepad/public/blob/master/svg%20logo/mini-logo-timepad-with-background-2.svg) |
 
 Логотип
@@ -30,10 +30,10 @@
 ###Прозрачный фон
 | Темно-серый   | Светло-синий  |
 | ------------- |-------------- |
-| <img src="https://github.com/timepad/public/master/png%20logo/logo-timepad-without-background-1.png" alt="TimePad Logo"> | <img src="https://github.com/timepad/public/master/png%20logo/logo-timepad-without-background-2.png" alt="TimePad Logo"> |
+| <img src="https://raw.githubusercontent.com/timepad/public/master/png%20logo/logo-timepad-without-background-1.png" alt="TimePad Logo"> | <img src="https://raw.githubusercontent.com/timepad/public/master/png%20logo/logo-timepad-without-background-2.png" alt="TimePad Logo"> |
 | [png](https://github.com/timepad/public/master/png%20logo/logo-timepad-without-background-1.png), [svg](https://github.com/timepad/public/blob/master/svg%20logo/logo-timepad-without-background-1.svg) | [png](https://github.com/timepad/public/master/png%20logo/logo-timepad-without-background-2.png), [svg](https://github.com/timepad/public/blob/master/svg%20logo/logo-timepad-without-background-2.svg) |
 ###Цветной фон
 | Темно-серый   | Светло-синий  |
 | ------------- |-------------- |
-| <img src="https://github.com/timepad/public/master/png%20logo/logo-timepad-with-background-1.png" alt="TimePad Logo"> | <img src="https://github.com/timepad/public/master/png%20logo/logo-timepad-with-background-2.png" alt="TimePad Logo"> |
+| <img src="https://raw.githubusercontent.com/timepad/public/master/png%20logo/logo-timepad-with-background-1.png" alt="TimePad Logo"> | <img src="https://raw.githubusercontent.com/timepad/public/master/png%20logo/logo-timepad-with-background-2.png" alt="TimePad Logo"> |
 | [png](https://github.com/timepad/public/master/png%20logo/logo-timepad-with-background-1.png), [svg](https://github.com/timepad/public/blob/master/svg%20logo/logo-timepad-with-background-1.svg) | [png](https://github.com/timepad/public/master/png%20logo/logo-timepad-with-background-2.png), [svg](https://github.com/timepad/public/blob/master/svg%20logo/logo-timepad-with-background-2.svg) |
