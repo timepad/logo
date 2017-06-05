@@ -46,3 +46,10 @@
 | --- | --- |
 | <img src="https://raw.githubusercontent.com/timepad/public/master/png/logo-timepad-with-background-1.png" alt="TimePad Logo"> | <img src="https://raw.githubusercontent.com/timepad/public/master/png/logo-timepad-with-background-2.png" alt="TimePad Logo"> |
 | [png](https://github.com/timepad/logo/blob/master/png/logo-timepad-with-background-1.png), [svg](https://github.com/timepad/logo/blob/master/svg/logo-timepad-with-background-1.svg), [ai](https://github.com/timepad/logo/blob/master/ai/logo-timepad-with-background-1.ai) | [png](https://github.com/timepad/logo/blob/master/png/logo-timepad-with-background-2.png), [svg](https://github.com/timepad/logo/blob/master/svg/logo-timepad-with-background-2.svg), [ai](https://github.com/timepad/logo/blob/master/ai/logo-timepad-with-background-2.ai) |
+
+### Партнерский логотип
+
+| Вариант 1 | Вариант 2 |
+| --- | --- |
+| <img src="https://raw.githubusercontent.com/timepad/public/master/png/logo-timepad-partner-1.png" alt="TimePad Partner Logo"> | <img src="https://raw.githubusercontent.com/timepad/public/master/png/logo-timepad-partner-2.png" alt="TimePad Partner Logo"> |
+| [png](https://raw.githubusercontent.com/timepad/public/master/png/logo-timepad-partner-1.png), [svg](https://raw.githubusercontent.com/timepad/public/master/svg/logo-timepad-partner-1.svg) | [png](https://raw.githubusercontent.com/timepad/public/master/png/logo-timepad-partner-2.png), [svg](https://raw.githubusercontent.com/timepad/public/master/svg/logo-timepad-partner-2.svg) |
